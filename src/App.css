@@ -839,6 +839,24 @@ main {
   }
 }
 
+.github {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  border-radius: 50%;
+  width: 55px;
+  height: 55px;
+  display: grid;
+  place-items: center;
+  background: #4a4949;
+  z-index: 10;
+
+  & svg {
+    font-size: 33px;
+    fill: #fff;
+  }
+}
+
 @media only screen and (max-width:1200px) {
   .button-list {
     grid-template-columns: repeat(5, 1fr);

@@ -4,6 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import Header from '../common/Header';
 import ButtonArea from '../components/ButtonArea';
 import ButtonDetails from '../components/ButtonDetails';
+import SideLinks from '../components/SideLinks';
 
 const Pages: React.FC = () => {
     const location = useLocation();
@@ -22,6 +23,7 @@ const Pages: React.FC = () => {
     return (
         <>
             <Header />
+            <SideLinks />
             <AnimatePresence>
                 <Routes location={location}>
                     <Route
