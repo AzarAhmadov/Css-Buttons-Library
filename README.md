@@ -1,4 +1,4 @@
-How to use ?
+## How to use ?
 Click on your desired button and copy the HTML & CSS.
 
 ## Demo
