@@ -977,13 +977,13 @@ export const buttonsData = [
         touch-action: manipulation;
       }
   
-      .button-34:hover {
+      .btn-34:hover {
         background-position: right center;
         color: #fff;
         text-decoration: none;
       }
   
-      .button-34:active {
+      .btn-34:active {
         transform: scale(0.95);
       }
     `,
