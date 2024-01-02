@@ -892,8 +892,8 @@ main {
   right: 20px;
   bottom: 20px;
   border-radius: 50%;
-  width: 55px;
-  height: 55px;
+  width: 45px;
+  height: 45px;
   display: grid;
   place-items: center;
   background: #4a4949;
