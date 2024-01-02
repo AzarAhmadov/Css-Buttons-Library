@@ -1,12 +1,12 @@
 export const buttonsData = [
-    {
-        className: 'btn-1',
-        link: 'btn-1',
-        content: "button",
-        title: "Button #1",
-        html: '<button className="btn-1"> Button </button>',
-        showDetail: <a href="/buttons/btn-1" className="btn-1">Button</a>,
-        sourceCode: `
+  {
+    className: 'btn-1',
+    link: 'btn-1',
+    content: "button",
+    title: "Button #1",
+    html: '<button className="btn-1"> Button </button>',
+    showDetail: <a href="/buttons/btn-1" className="btn-1">Button</a>,
+    sourceCode: `
         .btn-1 {
             background-color: #141414;
             border: 1px solid rgba(54, 54, 54, 0.6);
@@ -25,15 +25,15 @@ export const buttonsData = [
         }
         `
 
-    },
-    {
-        className: 'btn-2',
-        link: 'btn-2',
-        content: "button",
-        title: "Button #2",
-        showDetail: <a href="/buttons/btn-2" className="btn-2">Button</a>,
-        html: '<button className="btn-2"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-2',
+    link: 'btn-2',
+    content: "button",
+    title: "Button #2",
+    showDetail: <a href="/buttons/btn-2" className="btn-2">Button</a>,
+    html: '<button className="btn-2"> Button </button>',
+    sourceCode: `
         .btn-2 {
             color: #1cc49d;
             background-color: #1b2f31;
@@ -47,15 +47,15 @@ export const buttonsData = [
             font-weight: 600;
           }
         `
-    },
-    {
-        className: 'btn-3',
-        link: 'btn-3',
-        content: "button",
-        title: "Button #3",
-        showDetail: <a href="/buttons/btn-3" className="btn-3">Button</a>,
-        html: '<button className="btn-3"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-3',
+    link: 'btn-3',
+    content: "button",
+    title: "Button #3",
+    showDetail: <a href="/buttons/btn-3" className="btn-3">Button</a>,
+    html: '<button className="btn-3"> Button </button>',
+    sourceCode: `
         .btn-3 {
             display: inline-block;
             padding: 0.5em 1.7em;
@@ -77,15 +77,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-4',
-        link: 'btn-4',
-        content: "button",
-        title: "Button #4",
-        showDetail: <a href="/buttons/btn-4" className="btn-4">Button</a>,
-        html: '<button className="btn-4"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-4',
+    link: 'btn-4',
+    content: "button",
+    title: "Button #4",
+    showDetail: <a href="/buttons/btn-4" className="btn-4">Button</a>,
+    html: '<button className="btn-4"> Button </button>',
+    sourceCode: `
         .btn-4 {
             display: inline-block;
             padding: 0.5em 1.7em;
@@ -107,15 +107,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-5',
-        link: 'btn-5',
-        content: "button",
-        title: "Button #5",
-        showDetail: <a href="/buttons/btn-5" className="btn-5">Button</a>,
-        html: `<button className="btn-5"> Button </button>`,
-        sourceCode: `
+  },
+  {
+    className: 'btn-5',
+    link: 'btn-5',
+    content: "button",
+    title: "Button #5",
+    showDetail: <a href="/buttons/btn-5" className="btn-5">Button</a>,
+    html: `<button className="btn-5"> Button </button>`,
+    sourceCode: `
         .btn-5 {
             display: inline-block;
             padding: 0.6em 1.7em;
@@ -136,15 +136,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-6',
-        link: 'btn-6',
-        content: "button",
-        title: "Button #6",
-        showDetail: <a href="/buttons/btn-6" className="btn-6">Button</a>,
-        html: '<button className="btn-6"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-6',
+    link: 'btn-6',
+    content: "button",
+    title: "Button #6",
+    showDetail: <a href="/buttons/btn-6" className="btn-6">Button</a>,
+    html: '<button className="btn-6"> Button </button>',
+    sourceCode: `
         .btn-6 {
             border-color: #ffffff;
             padding: 0.6em 2.3em;
@@ -163,15 +163,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-7',
-        link: 'btn-7',
-        content: "button",
-        title: "Button #7",
-        showDetail: <a href="/buttons/btn-7" className="btn-7">Button</a>,
-        html: '<button className="btn-7"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-7',
+    link: 'btn-7',
+    content: "button",
+    title: "Button #7",
+    showDetail: <a href="/buttons/btn-7" className="btn-7">Button</a>,
+    html: '<button className="btn-7"> Button </button>',
+    sourceCode: `
         .btn-7 {
             display: inline-block;
             padding: 0.65em 1.6em;
@@ -224,15 +224,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-8',
-        link: 'btn-8',
-        content: "button",
-        title: "Button #8",
-        showDetail: <a href="/buttons/btn-8" className="btn-8">Button</a>,
-        html: '<button className="btn-8"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-8',
+    link: 'btn-8',
+    content: "button",
+    title: "Button #8",
+    showDetail: <a href="/buttons/btn-8" className="btn-8">Button</a>,
+    html: '<button className="btn-8"> Button </button>',
+    sourceCode: `
         .btn-8 {
             display: inline-block;
             padding: .75rem 1.25rem;
@@ -280,15 +280,15 @@ export const buttonsData = [
             }
     
         `
-    },
-    {
-        className: 'btn-9',
-        link: 'btn-9',
-        content: "button",
-        title: "Button #9",
-        showDetail: <a href="/buttons/btn-9" className="btn-9">Button</a>,
-        html: '<button className="btn-9"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-9',
+    link: 'btn-9',
+    content: "button",
+    title: "Button #9",
+    showDetail: <a href="/buttons/btn-9" className="btn-9">Button</a>,
+    html: '<button className="btn-9"> Button </button>',
+    sourceCode: `
         .btn-9 {
             display: inline-block;
             padding: 15px 30px;
@@ -310,15 +310,15 @@ export const buttonsData = [
           }
         `
 
-    },
-    {
-        className: 'btn-10',
-        link: 'btn-10',
-        content: "button",
-        title: "Button #10",
-        showDetail: <a href="/buttons/btn-10" className="btn-10">Button</a>,
-        html: '<button className="btn-10"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-10',
+    link: 'btn-10',
+    content: "button",
+    title: "Button #10",
+    showDetail: <a href="/buttons/btn-10" className="btn-10">Button</a>,
+    html: '<button className="btn-10"> Button </button>',
+    sourceCode: `
         .btn-10 {
             display: inline-block;
             padding: 12px 24px;
@@ -334,15 +334,15 @@ export const buttonsData = [
             transition: background-color 0.3s, transform 0.1s;
           }
         `
-    },
-    {
-        className: 'btn-11',
-        link: 'btn-11',
-        content: "button",
-        title: "Button #11",
-        showDetail: <a href="/buttons/btn-11" className="btn-11">Button</a>,
-        html: '<button className="btn-11"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-11',
+    link: 'btn-11',
+    content: "button",
+    title: "Button #11",
+    showDetail: <a href="/buttons/btn-11" className="btn-11">Button</a>,
+    html: '<button className="btn-11"> Button </button>',
+    sourceCode: `
         .btn-11 {
             display: inline-block;
             outline: 0;
@@ -367,15 +367,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-12',
-        link: 'btn-12',
-        content: "button",
-        title: "Button #12",
-        showDetail: <a href="/buttons/btn-12" className="btn-12">Button</a>,
-        html: '<button className="btn-12"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-12',
+    link: 'btn-12',
+    content: "button",
+    title: "Button #12",
+    showDetail: <a href="/buttons/btn-12" className="btn-12">Button</a>,
+    html: '<button className="btn-12"> Button </button>',
+    sourceCode: `
         .btn-12 {
             outline: 0;
             grid-gap: 8px;
@@ -408,15 +408,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-13',
-        link: 'btn-13',
-        content: "button",
-        title: "Button #13",
-        showDetail: <a href="/buttons/btn-13" className="btn-13">Button</a>,
-        html: '<button className="btn-13"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-13',
+    link: 'btn-13',
+    content: "button",
+    title: "Button #13",
+    showDetail: <a href="/buttons/btn-13" className="btn-13">Button</a>,
+    html: '<button className="btn-13"> Button </button>',
+    sourceCode: `
         .btn-13 {
             font-size: 16px;
             font-weight: 600;
@@ -441,15 +441,15 @@ export const buttonsData = [
             outline: none;
           }
         `
-    },
-    {
-        className: 'btn-14',
-        link: 'btn-14',
-        content: "button",
-        title: "Button #14",
-        showDetail: <a href="/buttons/btn-14" className="btn-14">Button</a>,
-        html: '<button className="btn-14"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-14',
+    link: 'btn-14',
+    content: "button",
+    title: "Button #14",
+    showDetail: <a href="/buttons/btn-14" className="btn-14">Button</a>,
+    html: '<button className="btn-14"> Button </button>',
+    sourceCode: `
         .btn-14 {
             font-size: 16px;
             font-weight: 600;
@@ -474,15 +474,15 @@ export const buttonsData = [
             outline: none;
           } 
         `
-    },
-    {
-        className: 'btn-15',
-        link: 'btn-15',
-        content: "button",
-        title: "Button #15",
-        showDetail: <a href="/buttons/btn-15" className="btn-15">Button</a>,
-        html: '<button className="btn-15"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-15',
+    link: 'btn-15',
+    content: "button",
+    title: "Button #15",
+    showDetail: <a href="/buttons/btn-15" className="btn-15">Button</a>,
+    html: '<button className="btn-15"> Button </button>',
+    sourceCode: `
         .btn-15 {
             font-size: 16px;
             font-weight: 600;
@@ -507,15 +507,15 @@ export const buttonsData = [
             outline: none;
           }
         `
-    },
-    {
-        className: 'btn-16',
-        link: 'btn-16',
-        content: "button",
-        title: "Button #16",
-        showDetail: <a href="/buttons/btn-16" className="btn-16">Button</a>,
-        html: '<button className="btn-16"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-16',
+    link: 'btn-16',
+    content: "button",
+    title: "Button #16",
+    showDetail: <a href="/buttons/btn-16" className="btn-16">Button</a>,
+    html: '<button className="btn-16"> Button </button>',
+    sourceCode: `
         .btn-16 {
             font-size: 16px;
             font-weight: 600;
@@ -540,15 +540,15 @@ export const buttonsData = [
             outline: none;
           }
         `
-    },
-    {
-        className: 'btn-17',
-        link: 'btn-17',
-        content: "button",
-        title: "Button #17",
-        showDetail: <a href="/buttons/btn-17" className="btn-17">Button</a>,
-        html: '<button className="btn-17"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-17',
+    link: 'btn-17',
+    content: "button",
+    title: "Button #17",
+    showDetail: <a href="/buttons/btn-17" className="btn-17">Button</a>,
+    html: '<button className="btn-17"> Button </button>',
+    sourceCode: `
         .btn-17 {
             font-size: 16px;
             font-weight: 600;
@@ -573,15 +573,15 @@ export const buttonsData = [
             outline: none;
           }
         `
-    },
-    {
-        className: 'btn-18',
-        link: 'btn-18',
-        content: "button",
-        title: "Button #18",
-        showDetail: <a href="/buttons/btn-18" className="btn-18">Button</a>,
-        html: '<button className="btn-18"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-18',
+    link: 'btn-18',
+    content: "button",
+    title: "Button #18",
+    showDetail: <a href="/buttons/btn-18" className="btn-18">Button</a>,
+    html: '<button className="btn-18"> Button </button>',
+    sourceCode: `
         .btn-18 {
             font-size: 16px;
             font-weight: 600;
@@ -606,57 +606,57 @@ export const buttonsData = [
             outline: none;
           }
         `
-    },
-    {
-        className: 'btn-19',
-        link: 'btn-19',
-        content: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" alt="Facebook" />,
-        title: "Facebook Button",
-        html: `<a href="/buttons/19" className="btn-19"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" alt="Facebook" /></a>`,
-    },
-    {
-        className: 'btn-20',
-        link: 'btn-20',
-        content: <img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Microsoft' />,
-        title: "Microsoft Button",
-        html: `<a href="/buttons/20" className="btn-20"><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Microsoft' /></a>`
-    },
-    {
-        className: 'btn-21',
-        link: 'btn-21',
-        content: <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" />,
-        title: "App Store Button",
-        html: `<a href="/buttons/21" className="btn-21"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" /></a>`
-    },
-    {
-        className: 'btn-22',
-        link: 'btn-22',
-        content: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Google Play" />,
-        title: "Google Play Button",
-        html: `<a href="/buttons/22" className="btn-22"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Google Play" /></a>`
-    },
-    {
-        className: 'btn-23',
-        link: 'btn-23',
-        content: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoRlaUiElDiQyaBJvEdW0PdfkCHgfKTfnysp-4nI5Fs_iurhKl1ql8VbuF4hmMCpttec&usqp=CAU" alt="Instagram" />,
-        title: "Instagram Button",
-        html: `<a href="/buttons/23" className="btn-23"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoRlaUiElDiQyaBJvEdW0PdfkCHgfKTfnysp-4nI5Fs_iurhKl1ql8VbuF4hmMCpttec&usqp=CAU" alt="Instagram" /></a>`
-    },
-    {
-        className: 'btn-24',
-        link: 'btn-24',
-        content: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGQ439GZtQJNnvjnpE6yON2QrLvXoOGowP6-N9tXa3QBLJ8mQcGgBn0UFnZGgZihAWZk&usqp=CAU" alt="TikTok" />,
-        title: "TikTok Button",
-        html: `<a href="/buttons/24" className="btn-24"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGQ439GZtQJNnvjnpE6yON2QrLvXoOGowP6-N9tXa3QBLJ8mQcGgBn0UFnZGgZihAWZk&usqp=CAU" alt="TikTok" /></a>`
-    },
-    {
-        className: 'btn-25',
-        link: 'btn-25',
-        content: "button",
-        title: "Button #25",
-        showDetail: <a href="/buttons/btn-25" className="btn-25">Button</a>,
-        html: '<button className="btn-25"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-19',
+    link: 'btn-19',
+    content: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" alt="Facebook" />,
+    title: "Facebook Button",
+    html: `<a href="/buttons/19" className="btn-19"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" alt="Facebook" /></a>`,
+  },
+  {
+    className: 'btn-20',
+    link: 'btn-20',
+    content: <img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Microsoft' />,
+    title: "Microsoft Button",
+    html: `<a href="/buttons/20" className="btn-20"><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='Microsoft' /></a>`
+  },
+  {
+    className: 'btn-21',
+    link: 'btn-21',
+    content: <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" />,
+    title: "App Store Button",
+    html: `<a href="/buttons/21" className="btn-21"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="App Store" /></a>`
+  },
+  {
+    className: 'btn-22',
+    link: 'btn-22',
+    content: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Google Play" />,
+    title: "Google Play Button",
+    html: `<a href="/buttons/22" className="btn-22"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Google Play" /></a>`
+  },
+  {
+    className: 'btn-23',
+    link: 'btn-23',
+    content: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoRlaUiElDiQyaBJvEdW0PdfkCHgfKTfnysp-4nI5Fs_iurhKl1ql8VbuF4hmMCpttec&usqp=CAU" alt="Instagram" />,
+    title: "Instagram Button",
+    html: `<a href="/buttons/23" className="btn-23"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoRlaUiElDiQyaBJvEdW0PdfkCHgfKTfnysp-4nI5Fs_iurhKl1ql8VbuF4hmMCpttec&usqp=CAU" alt="Instagram" /></a>`
+  },
+  {
+    className: 'btn-24',
+    link: 'btn-24',
+    content: <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGQ439GZtQJNnvjnpE6yON2QrLvXoOGowP6-N9tXa3QBLJ8mQcGgBn0UFnZGgZihAWZk&usqp=CAU" alt="TikTok" />,
+    title: "TikTok Button",
+    html: `<a href="/buttons/24" className="btn-24"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGQ439GZtQJNnvjnpE6yON2QrLvXoOGowP6-N9tXa3QBLJ8mQcGgBn0UFnZGgZihAWZk&usqp=CAU" alt="TikTok" /></a>`
+  },
+  {
+    className: 'btn-25',
+    link: 'btn-25',
+    content: "button",
+    title: "Button #25",
+    showDetail: <a href="/buttons/btn-25" className="btn-25">Button</a>,
+    html: '<button className="btn-25"> Button </button>',
+    sourceCode: `
         .btn-25 {
             display: flex;
             align-items: center;
@@ -679,15 +679,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-26 slide_down',
-        link: 'btn-26',
-        content: "Slide down",
-        title: "Slide Down Button",
-        showDetail: <a href="/buttons/btn-26" className="btn-26 slide_down">Slide down</a>,
-        html: '<button className="btn-26"> Slide down </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-26 slide_down',
+    link: 'btn-26',
+    content: "Slide down",
+    title: "Slide Down Button",
+    showDetail: <a href="/buttons/btn-26" className="btn-26 slide_down">Slide down</a>,
+    html: '<button className="btn-26"> Slide down </button>',
+    sourceCode: `
         .btn-26 {
             color: #FFF;
             border: 2px solid rgb(216, 2, 134);
@@ -709,15 +709,15 @@ export const buttonsData = [
             box-shadow: inset 0 100px 0 0 #D80286;
           }
         `
-    },
-    {
-        className: 'btn-27 slide_right',
-        link: 'btn-27',
-        content: "Slide right",
-        title: "Slide Right Button",
-        showDetail: <a href="/buttons/btn-27" className="btn-27 slide_right">Slide right</a>,
-        html: '<button className="btn-27"> Slide right </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-27 slide_right',
+    link: 'btn-27',
+    content: "Slide right",
+    title: "Slide Right Button",
+    showDetail: <a href="/buttons/btn-27" className="btn-27 slide_right">Slide right</a>,
+    html: '<button className="btn-27"> Slide right </button>',
+    sourceCode: `
         .btn-27 {
             color: #FFF;
             border: 2px solid rgb(216, 2, 134);
@@ -739,15 +739,15 @@ export const buttonsData = [
             box-shadow: inset 0 100px 0 0 #D80286;
           }
         `
-    },
-    {
-        className: 'btn-28 slide_left',
-        link: 'btn-28',
-        content: "Slide left",
-        title: "Slide Left Button",
-        showDetail: <a href="/buttons/btn-27" className="btn-28 slide_left">Slide left</a>,
-        html: '<button className="btn-27"> Slide left </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-28 slide_left',
+    link: 'btn-28',
+    content: "Slide left",
+    title: "Slide Left Button",
+    showDetail: <a href="/buttons/btn-27" className="btn-28 slide_left">Slide left</a>,
+    html: '<button className="btn-27"> Slide left </button>',
+    sourceCode: `
         .btn-27 {
             color: #FFF;
             border: 2px solid rgb(216, 2, 134);
@@ -769,15 +769,15 @@ export const buttonsData = [
             box-shadow: inset 0 100px 0 0 #D80286;
           }
         `
-    },
-    {
-        className: 'btn-29 slide_diagonal',
-        link: 'btn-29',
-        content: "Slide diagonal",
-        title: "Slide Diagonal Button",
-        showDetail: <a href="/buttons/btn-28" className="btn-28 slide_diagonal">Slide diagonal</a>,
-        html: '<button className="btn-28"> Slide diagonal </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-29 slide_diagonal',
+    link: 'btn-29',
+    content: "Slide diagonal",
+    title: "Slide Diagonal Button",
+    showDetail: <a href="/buttons/btn-28" className="btn-28 slide_diagonal">Slide diagonal</a>,
+    html: '<button className="btn-28"> Slide diagonal </button>',
+    sourceCode: `
         .btn-28 {
             color: #FFF;
             border: 2px solid rgb(216, 2, 134);
@@ -799,15 +799,15 @@ export const buttonsData = [
             box-shadow: inset 0 100px 0 0 #D80286;
           }
         `
-    },
-    {
-        className: 'btn-30',
-        link: 'btn-30',
-        content: "button",
-        title: "Button #30",
-        showDetail: <a href="/buttons/btn-30" className="btn-30">Button</a>,
-        html: '<button className="btn-30"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-30',
+    link: 'btn-30',
+    content: "button",
+    title: "Button #30",
+    showDetail: <a href="/buttons/btn-30" className="btn-30">Button</a>,
+    html: '<button className="btn-30"> Button </button>',
+    sourceCode: `
         .btn-30 {
             display: inline-block;
             padding: 10px 20px;
@@ -834,15 +834,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-31',
-        link: 'btn-31',
-        content: "button",
-        title: "Button #31",
-        showDetail: <a href="/buttons/btn-31" className="btn-31">Button</a>,
-        html: '<button className="btn-31"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-31',
+    link: 'btn-31',
+    content: "button",
+    title: "Button #31",
+    showDetail: <a href="/buttons/btn-31" className="btn-31">Button</a>,
+    html: '<button className="btn-31"> Button </button>',
+    sourceCode: `
         .btn-31 {
             display: inline-block;
             padding: 10px 20px;
@@ -876,15 +876,15 @@ export const buttonsData = [
             }
           }
         `
-    },
-    {
-        className: 'btn-32',
-        link: 'btn-32',
-        content: "button",
-        title: "Button #32",
-        showDetail: <a href="/buttons/btn-32" className="btn-32">Button</a>,
-        html: '<button className="btn-32"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-32',
+    link: 'btn-32',
+    content: "button",
+    title: "Button #32",
+    showDetail: <a href="/buttons/btn-32" className="btn-32">Button</a>,
+    html: '<button className="btn-32"> Button </button>',
+    sourceCode: `
         .btn-32 {
             display: inline-block;
             padding: 10px 20px;
@@ -901,15 +901,15 @@ export const buttonsData = [
             background: linear-gradient(45deg, #e74c3c, #3498db);
           }
         `
-    },
-    {
-        className: 'btn-33',
-        link: 'btn-33',
-        content: "button",
-        title: "Button #33",
-        showDetail: <a href="/buttons/btn-33" className="btn-33">Button</a>,
-        html: '<button className="btn-33"> Button </button>',
-        sourceCode: `
+  },
+  {
+    className: 'btn-33',
+    link: 'btn-33',
+    content: "button",
+    title: "Button #33",
+    showDetail: <a href="/buttons/btn-33" className="btn-33">Button</a>,
+    html: '<button className="btn-33"> Button </button>',
+    sourceCode: `
         .btn-33 {
             display: inline-block;
             padding: 15px 30px;
@@ -944,6 +944,50 @@ export const buttonsData = [
             }
           }
         `
-    }
+  },
+  {
+    className: 'btn-34',
+    link: 'btn-34',
+    content: "button",
+    title: "Button #34",
+    showDetail: (
+      <a href="/buttons/btn-34" className="btn-34">
+        Button
+      </a>
+    ),
+    html: '<button className="btn-34"> Button </button>',
+    sourceCode: `
+      .btn-34 {
+        margin: 10px;
+        padding: 15px 30px;
+        text-align: center;
+        text-transform: uppercase;
+        transition: 0.5s;
+        background-size: 200% auto;
+        color: white;
+        border-radius: 10px;
+        display: block;
+        border: 0px;
+        font-weight: 700;
+        box-shadow: 0px 0px 14px -7px #f09819;
+        background-image: linear-gradient(45deg, #FF512F 0%, #F09819 51%, #FF512F 100%);
+        cursor: pointer;
+        user-select: none;
+        -webkit-user-select: none;
+        touch-action: manipulation;
+      }
+  
+      .button-34:hover {
+        background-position: right center;
+        color: #fff;
+        text-decoration: none;
+      }
+  
+      .button-34:active {
+        transform: scale(0.95);
+      }
+    `,
+  },
+
 ];
 
